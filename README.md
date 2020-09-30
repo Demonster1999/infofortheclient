@@ -47,7 +47,11 @@ note :*all the packages above mentioned contains a link in it which can be used 
  To run the provided application. first download it from [here](https://drive.google.com/file/d/1QAY6qECmUW8D19BVNAGfhhIZn8oudRpY/view?usp=sharing). and then follow the steps below:
   1. extract the zip to a folder in desktop know as opc_work.
   1. open the opc_work then app and open a command window with the working directory as the directed one.
-  1. run the below command :
+  1. run the below commands :
+     
+     ```cmd
+      C:\users\Yourusername\Desktop\opc_work\app>python -m pip install -r requirements.txt
+       ```
   
       ```cmd
       C:\users\Yourusername\Desktop\opc_work\app>python gui.py
