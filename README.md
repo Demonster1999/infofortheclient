@@ -34,7 +34,7 @@ note :*all the packages above mentioned contains a link in it which can be used 
      1.open an elevated command window (i.e right click and run as administartor) and run the below command
      
         ```cmd 
-        C:\users\Yourusername>regsvr32 
+        C:\users\Yourusername>regsvr32 gbda_aut.dll 
         ```
     1. hope you have seen a windows saying the dlll registered successfully.
  *now we have installed all the required packages so head toward running the application step by step*
