@@ -46,7 +46,9 @@ note :*all the packages above mentioned contains a link in it which can be used 
   1. run the below command 
   
     ```cmd 
-    c:\users\Yourusername\Desktop\opc_work\app>python gui.py
+    
+    C:\users\Yourusername\Desktop\opc_work\app>python gui.py
+    
     ```
   1. now you will be asked for a prompt where you can configure the servers`ip to start the gui to work with.here in the prompt respond as stated
       if the machine is same where the opc server is installed ,then just press enter else enter the ip of the machine where the opc server is installed
