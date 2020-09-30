@@ -29,14 +29,14 @@ note :*all the packages above mentioned contains a link in it which can be used 
    1. install the pywin32 package now.
    1. install the qt4 package (the largest one aprrox 230MB).
    1. register the dll with the below steps
-     1. extract the graybox_opc_automation_wrapper.zip
-     1. head to x86 folder. 
-     1.open an elevated command window (i.e right click and run as administartor) and run the below command
+      1. extract the graybox_opc_automation_wrapper.zip
+      1. head to x86 folder. 
+      1.open an elevated command window (i.e right click and run as administartor) and run the below command
      
-        ```cmd 
-        C:\users\Yourusername>regsvr32 gbda_aut.dll 
-        ```
-    1. hope you have seen a windows saying the dlll registered successfully.
+         ```cmd 
+         C:\users\Yourusername>regsvr32 gbda_aut.dll 
+         ```
+      1. hope you have seen a windows saying the dlll registered successfully.
  *now we have installed all the required packages so head toward running the application step by step*
  
 ## steps to run the application 
