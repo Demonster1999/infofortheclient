@@ -45,7 +45,7 @@ note :*all the packages above mentioned contains a link in it which can be used 
   1. open the opc_work then app and open a command window with the working directory as the directed one.
   1. run the below command 
   
-    ```cmd 
+    ``` cmd 
     
     C:\users\Yourusername\Desktop\opc_work\app>python gui.py
     
@@ -53,6 +53,6 @@ note :*all the packages above mentioned contains a link in it which can be used 
   1. now you will be asked for a prompt where you can configure the servers`ip to start the gui to work with.here in the prompt respond as stated
       if the machine is same where the opc server is installed ,then just press enter else enter the ip of the machine where the opc server is installed
   1. if you got the gui you are good to start the logging of the data .but if you dont get it just read the instructions carefully 
-   rest will be illustrated using the screenshots below 
+  
  
     
