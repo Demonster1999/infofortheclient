@@ -45,7 +45,7 @@ note :*all the packages above mentioned contains a link in it which can be used 
   1. open the opc_work then app and open a command window with the working directory as the directed one.
   1. run the below command 
   
-    ``` cmd 
+    ``` 
     
     C:\users\Yourusername\Desktop\opc_work\app>python gui.py
     
