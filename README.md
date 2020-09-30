@@ -14,6 +14,7 @@ There are cretain prerequisites for the project to be able to run on the system.
       * [Pywin32](https://github.com/mhammond/pywin32/releases/download/b228/pywin32-228.win32-py3.6.exe) Package 
       * [qt4](https://download.qt.io/archive/qt/4.8/4.8.7/qt-opensource-windows-x86-vs2010-4.8.7.exe) package 
       * OPC DA COM component is [opcdaauto.dll](http://gray-box.net/download_daawrapper.php?lang=en) x86 version.(I am refering the folders in the package  here )
+
 note :*all the packages above mentioned contains a link in it which can be used to download the softwares or at the section end we will share the bundled package too so that you may not need get them seprately this section is just here to ensure that due to any restriction the process may not stop.*
 
 1. if you get all the required softwarers successfully lets install them one by one with a procedure so that yoou may not fail at any step 
