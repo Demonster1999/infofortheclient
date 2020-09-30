@@ -32,7 +32,7 @@ note :*all the packages above mentioned contains a link in it which can be used 
      1. head to x86 folder. 
      1.open an elevated command window (i.e right click and run as administartor) and run the below command
      
-        ```cmd C:\users\Yourusername>regsvr32```
+        ```cmd C:\users\Yourusername>regsvr32 ```
     1. hope you have seen a windows saying the dlll registered successfully.
  *now we have installed all the required packages so head toward running the application step by step*
  
@@ -43,7 +43,7 @@ note :*all the packages above mentioned contains a link in it which can be used 
   1. open the opc_work then app and open a command window with the working directory as the directed one.
   1. run the below command 
   
-    ``` cmd  c:\users\Yourusername\Desktop\opc_work\app>python gui.py```
+    ```cmd  c:\users\Yourusername\Desktop\opc_work\app>python gui.py```
   1. now you will be asked for a prompt where you can configure the servers`ip to start the gui to work with.here in the prompt respond as stated
       if the machine is same where the opc server is installed ,then just press enter else enter the ip of the machine where the opc server is installed
   1. if you got the gui you are good to start the logging of the data .but if you dont get it just read the instructions carefully 
