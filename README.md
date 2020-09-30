@@ -19,12 +19,9 @@ note :*all the packages above mentioned contains a link in it which can be used 
 1. if you get all the required softwarers successfully lets install them one by one with a procedure so that yoou may not fail at any step 
    1. install python and dont forget to check "ADD TO PATH " option. that`s manadatory.
       open a command window and check that we have installed the python correctly.
-      ```cmd 
-      
+      ```cmd     
        C:\users\Yourusername>python --version
-       Python 3.6.8
-           
-      ```
+       Python 3.6.8```
       if you see similar output then you have successfully installed the python. 
    1. install the pywin32 package now.
    1. install the qt4 package (the largest one aprrox 230MB).
@@ -33,9 +30,7 @@ note :*all the packages above mentioned contains a link in it which can be used 
      1. head to x86 folder. 
      1.open an elevated command window (i.e right click and run as administartor) and run the below command
      
-        ```cmd
-       C:\users\Yourusername>regsvr32 
-      ```
+        ```cmd C:\users\Yourusername>regsvr32```
     1. hope you have seen a windows saying the dlll registered successfully.
  *now we have installed all the required packages so head toward running the application step by step*
  
